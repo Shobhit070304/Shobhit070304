@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shobhit Kumar Sharma</h1>
+
+  <h1 align="center">Hi 👋, I'm Shobhit Kumar Sharma</h1>
 <h3 align="center">I am a MERN Developer with gaining expertise in Data structures and algorithms regularly.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit070304&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit070304" /> </p>
@@ -8,7 +9,9 @@
 - 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **sharmashobhit1000@gmail.com**
-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="GIF">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="GIF">
+</div>
 
 
 
