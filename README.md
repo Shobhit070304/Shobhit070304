@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shobhit kumar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit kumar sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shobhit-kumar-sharma-17bb4223a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit kumar sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/Shobhit07" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="shobhit kumar sharma" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
