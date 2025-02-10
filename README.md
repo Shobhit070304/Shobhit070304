@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Employee management system💻**
 
-- 🌱 I’m currently learning **Typescript** 🤖
+- 🌱 I’m currently learning **Computer networks** 🤖
 
 - 📫 How to reach me **sharmashobhit1000@gmail.com**
 <div align="center">
