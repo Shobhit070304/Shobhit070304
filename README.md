@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit070304&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit070304" /> </p>
 
-- 🔭 I’m currently working on **Employee management system💻**
+- 🔭 I’m currently working on **Ai-code-reviewer💻**
 
-- 🌱 I’m currently learning **Computer networks** 🤖
+- 🌱 I’m currently learning **Java** 🤖
 
 - 📫 How to reach me **sharmashobhit1000@gmail.com**
 <div align="center">
