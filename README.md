@@ -8,10 +8,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/Shobhit07" target="_blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Coding Ninjas" height="30" width="40"/></a>
 <a href="https://auth.geeksforgeeks.org/user/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shobhit-kumar-sharma-17bb4223a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-kumar-sharma-17bb4223a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sharmashobhit102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharmashobhit102" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shobhit07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shobhit07" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,4 +43,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit070304&show_icons=true&locale=en&layout=compact" alt="shobhit070304" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhit070304" alt="shobhit070304" /></a> </p>
