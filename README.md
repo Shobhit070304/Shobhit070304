@@ -1,11 +1,10 @@
 <h1 align="center">👋Hi, I'm Shobhit</h1>
 <h3 align="center">Always exploring, always improving — I enjoy creating, fixing, and figuring things out.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit070304&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit070304" /> </p>
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="GIF">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="GIF">
 </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
