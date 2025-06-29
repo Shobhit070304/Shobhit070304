@@ -2,7 +2,7 @@
 <h3 align="center">Always exploring, always improving — I enjoy creating, fixing, and figuring things out.</h3>
 
 <div align="center">
-<img src="https://i.gifer.com/CkxA.gif" width="500" alt="GIF">
+<img src="https://i.gifer.com/CkxA.gif" width="300" alt="GIF">
 </div>
 
 <hr/>
@@ -22,7 +22,6 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left" style="white-space: nowrap; font-weight: 600; font-size: 16px; margin-bottom: 6px;">
-  🚀 Programming Languages ➜
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="32" height="32" />
   </a>
@@ -35,10 +34,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="32" height="32" />
   </a>
-</p>
 
-<p align="left" style="white-space: nowrap; font-weight: 600; font-size: 16px; margin-bottom: 6px;">
-  🎨 Frontend ➜
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="32" height="32" />
   </a>
@@ -57,10 +53,7 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="32" height="32" />
   </a>
-</p>
 
-<p align="left" style="white-space: nowrap; font-weight: 600; font-size: 16px; margin-bottom: 6px;">
-  🖥️ Backend ➜
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" />
   </a>
@@ -70,10 +63,7 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="32" height="32" />
   </a>
-</p>
-
-<p align="left" style="white-space: nowrap; font-weight: 600; font-size: 16px; margin-bottom: 6px;">
-  🗄️ Databases ➜
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="32" height="32" />
   </a>
@@ -83,10 +73,7 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="32" height="32" />
   </a>
-</p>
 
-<p align="left" style="white-space: nowrap; font-weight: 600; font-size: 16px; margin-bottom: 6px;">
-  ⚙️ Tools & Platforms ➜
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32" height="32" />
   </a>
