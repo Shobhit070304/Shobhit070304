@@ -101,7 +101,3 @@
   </a>
 </p>
 
-<hr/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit070304&show_icons=true&locale=en&layout=compact" alt="shobhit070304" /></p>
-
