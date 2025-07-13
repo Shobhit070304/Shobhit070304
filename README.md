@@ -2,7 +2,7 @@
 <h3 align="center">Always exploring, always improving — I enjoy creating, fixing, and figuring things out.</h3>
 
 <div align="center">
-<img src="00bd225a-21a8-4c06-bbda-2a7bfcbf3a54.gif" width="200" alt="GIF">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="GIF">
 </div>
 
 <hr/>
