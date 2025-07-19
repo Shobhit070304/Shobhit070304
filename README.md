@@ -10,10 +10,10 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/Shobhit07" target="_blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Coding Ninjas" height="30" width="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sharmashobhit102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharmashobhit102" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shobhit07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shobhit07" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/Shobhit07" target="_blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Coding Ninjas" height="30" width="40"/></a>
+<a href="https://www.hackerrank.com/sharmashobhit102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharmashobhit102" height="30" width="40" /></a>
 </p>
 
 <hr/>
@@ -85,6 +85,15 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32" height="32" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="32" height="32" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" title="Prisma" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="32" height="32" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="32" height="32" />
   </a>
 </p>
 
