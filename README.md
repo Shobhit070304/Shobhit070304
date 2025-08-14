@@ -10,6 +10,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shobhit_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="shobhit_77" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shobhit07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shobhit07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sharmashobhit1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmashobhit1000" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/Shobhit07" target="_blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Coding Ninjas" height="30" width="40"/></a>
