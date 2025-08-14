@@ -12,7 +12,7 @@
   <a href="https://www.leetcode.com/sharmashobhit1000" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmashobhit1000" height="30" width="40" />
   </a>
-    <a href="https://www.codechef.com/users/sharmashobhit1000" target="blank">
+    <a href="https://www.codechef.com/users/shobhit_77" target="blank">
     <img align="center" src="https://private-user-images.githubusercontent.com/145959981/324915694-6b5ee842-9e02-4fcf-869d-86532a45dc25.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUxNzgzMDUsIm5iZiI6MTc1NTE3ODAwNSwicGF0aCI6Ii8xNDU5NTk5ODEvMzI0OTE1Njk0LTZiNWVlODQyLTllMDItNGZjZi04NjlkLTg2NTMyYTQ1ZGMyNS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxNFQxMzI2NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZjRiNjJlZjRkMzM4YzEzOTBlZGIyOTcxNDZjZWIwZDczN2M3MzMyZTA4MWY5NjYyYzkxZTA1MWE4NzhhYzdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.No7hSNX0yRP3ZA1V-h3IQ5Y_OmUaTpD6IOEdgYRnf1c" alt="sharmashobhit1000" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/shobhit07" target="blank">
