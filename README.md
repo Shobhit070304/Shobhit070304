@@ -32,9 +32,6 @@
 
 <hr/>
 
-<hr/>
-
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left" style="white-space: nowrap; font-weight: 600; font-size: 16px; margin-bottom: 6px;">
