@@ -1,96 +1,113 @@
 <h1 align="center">👋Hi, I'm Shobhit</h1>
-<h3 align="center">Always exploring, always improving — I enjoy creating, fixing, and figuring things out.</h3>
+<h3 align="center">
+  Always exploring, always improving — I enjoy creating, fixing, and figuring things out.
+</h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" alt="GIF">
 </div>
 
 <hr/>
 
 <h3 align="left">💻 Coding profiles:</h3>
+
 <p align="left">
-  <a href="https://www.leetcode.com/sharmashobhit1000" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmashobhit1000" height="30" width="40" />
+  <a href="https://www.leetcode.com/sharmashobhit1000">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
   </a>
-    <a href="https://auth.geeksforgeeks.org/user/sharmashobhit1000" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmashobhit1000" height="30" width="40" />
+  <a href="https://auth.geeksforgeeks.org/user/sharmashobhit1000">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
   </a>
-  <a href="https://www.hackerrank.com/sharmashobhit102" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharmashobhit102" height="30" width="40" />
+  <a href="https://www.hackerrank.com/sharmashobhit102">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
   </a>
-<a href="https://www.codechef.com/users/shobhit_77" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=96&id=LnZMjt9rZC3d&format=png" alt="CodeChef Profile" height="40" width="40" />
-</a>
-  <a href="https://codeforces.com/profile/shobhit07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shobhit07" height="30" width="40" />
+  <a href="https://www.codechef.com/users/shobhit_77">
+    <img src="https://img.icons8.com/?size=96&id=LnZMjt9rZC3d&format=png" height="30"/>
   </a>
-    <a href="https://www.naukri.com/code360/profile/Shobhit07" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg" alt="Coding Ninjas" height="30" width="40"/>
+  <a href="https://codeforces.com/profile/shobhit07">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/>
+  </a>
+  <a href="https://www.naukri.com/code360/profile/Shobhit07">
+    <img src="https://www.svgrepo.com/show/330198/codingninjas.svg" height="30"/>
   </a>
 </p>
-
 
 <hr/>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-<p align="left" style="white-space: nowrap; font-weight: 600; font-size: 16px; margin-bottom: 6px;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="32" height="32" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="32" height="32" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="32" height="32" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="32" height="32" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="32" height="32" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="32" height="32" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="32" height="32" />
+<p align="left">
+
+  <a href="https://www.w3schools.com/cpp/" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" width="32"/>
   </a>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express.js" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="32" height="32" />
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="32" height="32" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="32" height="32" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="32" height="32" />
+  <a href="https://www.python.org" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" width="32"/>
   </a>
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32" height="32" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="32"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32" height="32" />
+
+  <a href="https://www.w3.org/html/" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" width="32"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="32" height="32" />
+
+  <a href="https://www.w3schools.com/css/" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" width="32"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="32" height="32" />
+
+  <a href="https://tailwindcss.com/" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="32"/>
   </a>
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer" title="n8n" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" width="32" height="32" />
+
+  <a href="https://reactjs.org/" title="React">
+    <img src="https://skillicons.dev/icons?i=react" width="32"/>
   </a>
+
+  <a href="https://redux.js.org" title="Redux">
+    <img src="https://skillicons.dev/icons?i=redux" width="32"/>
+  </a>
+
+  <a href="https://nodejs.org" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="32"/>
+  </a>
+
+  <a href="https://expressjs.com" title="Express.js">
+    <img src="https://skillicons.dev/icons?i=express" width="32"/>
+  </a>
+
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" width="32"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="32"/>
+  </a>
+
+  <a href="https://redis.io" title="Redis">
+    <img src="https://skillicons.dev/icons?i=redis" width="32"/>
+  </a>
+
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" width="32"/>
+  </a>
+
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" width="32"/>
+  </a>
+
+  <a href="https://aws.amazon.com/" title="AWS">
+    <img src="https://skillicons.dev/icons?i=aws" width="32"/>
+  </a>
+
+  <a href="https://www.postman.com/" title="Postman">
+    <img src="https://skillicons.dev/icons?i=postman" width="32"/>
+  </a>
+
+  <a href="https://n8n.io/" title="n8n">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="32"/>
+  </a>
+
 </p>
-
