@@ -43,11 +43,4 @@
 
 ---
 
-## 📈 Coding
-
-- 💛 400+ DSA problems solved
-- 🏆 LeetCode • Codeforces • CodeChef • GeeksforGeeks
-
----
-
 > *"I love understanding how systems work under the hood and building software that lasts."*
